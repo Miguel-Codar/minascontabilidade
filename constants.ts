@@ -179,20 +179,29 @@ export const blogPosts: BlogPost[] = [
     excerpt: "Entenda as diferenças tributárias entre atuar como Pessoa Física e Pessoa Jurídica e saiba como economizar até 60% em impostos.",
     date: "15 Out 2023",
     author: "Dra. Ana Silva",
-    imageUrl: "https://images.unsplash.com/photo-1576091160550-217358c7e618?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
+    imageUrl: "https://images.unsplash.com/photo-1576091160550-217358c7e618?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    slug: "carne-leao-ou-pj-para-medicos",
+    content:
+      "Ao iniciar a atividade médica, surge a dúvida: atuar como Pessoa Física no Carnê-Leão ou abrir um CNPJ (PJ)? Em geral, o regime como PJ permite uma carga tributária menor quando há faturamento recorrente e despesas dedutíveis, especialmente em regimes como o Simples Nacional ou o Lucro Presumido. Já o Carnê-Leão costuma ser mais oneroso conforme a renda aumenta.\n\nComo PJ, é possível planejar a tributação, organizar pró-labore e distribuição de lucros, além de ganhar acesso a benefícios como emissão de notas fiscais e contratação de equipe. Por outro lado, atuar como PF pode ser adequado para rendimentos eventuais e valores menores, exigindo menos estrutura.\n\nA melhor escolha depende do volume de receitas, do tipo de prestação de serviços e da possibilidade de deduções. Uma análise personalizada indica o regime ideal para pagar menos impostos com segurança.",
   },
   {
     title: "5 erros financeiros que médicos cometem",
     excerpt: "Misturar finanças pessoais com as do consultório é apenas um deles. Descubra como evitar armadilhas que prejudicam seu patrimônio.",
     date: "22 Set 2023",
     author: "Carlos Mendes",
-    imageUrl: "https://images.unsplash.com/photo-1551076805-e1869033e561?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
+    imageUrl: "https://images.unsplash.com/photo-1551076805-e1869033e561?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    slug: "erros-financeiros-medicos",
+    content:
+      "Entre os erros mais comuns estão a falta de separação entre contas pessoais e do consultório, ausência de reserva de impostos, inexistência de fluxo de caixa, contratação inadequada do regime tributário e não emissão de notas. Com organização e apoio contábil, é possível corrigir rapidamente.",
   },
   {
     title: "A importância do BPO Financeiro para clínicas",
     excerpt: "Terceirizar o financeiro pode ser a chave para ter mais tempo e previsibilidade de caixa. Veja como funciona na prática.",
     date: "10 Ago 2023",
     author: "Mariana Costa",
-    imageUrl: "https://images.unsplash.com/photo-1554224155-9840635290aa?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
-  }
+    imageUrl: "https://images.unsplash.com/photo-1554224155-9840635290aa?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    slug: "bpo-financeiro-para-clinicas",
+    content:
+      "O BPO Financeiro organiza entradas, saídas, conciliações, relatórios e indicadores. Com processos claros, a clínica ganha previsibilidade e decisões mais seguras. É um aliado estratégico do gestor e do contador.",
+  },
 ];

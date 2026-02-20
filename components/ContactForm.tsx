@@ -3,7 +3,7 @@ import { CheckCircle2 } from 'lucide-react';
 
 const ContactForm: React.FC = () => {
   return (
-    <section className="py-24 bg-brand-gray relative">
+    <section id="contato" className="py-24 bg-brand-gray relative">
       <div className="container mx-auto px-4">
         <div className="bg-white rounded-2xl shadow-xl overflow-hidden flex flex-col lg:flex-row">
             

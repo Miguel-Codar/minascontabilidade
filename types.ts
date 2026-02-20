@@ -45,4 +45,6 @@ export interface BlogPost {
   date: string;
   author: string;
   imageUrl: string;
+  slug: string;
+  content: string;
 }

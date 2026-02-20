@@ -91,19 +91,8 @@ const Footer: React.FC = () => {
               
               <div className="flex flex-col items-center md:items-start">
                   <p className="text-gray-600 mb-2">© Copyright:</p>
-                  {/* Footer Logo */}
                    <div className="flex items-center mb-4 opacity-70 grayscale hover:grayscale-0 transition-all">
-                       <div className="mr-2 flex items-end h-8 gap-1">
-                          <div className="w-1.5 h-3 bg-brand-red rounded-t-sm"></div>
-                          <div className="w-1.5 h-5 bg-brand-red rounded-t-sm"></div>
-                          <div className="w-1.5 h-8 bg-brand-red rounded-t-sm"></div>
-                          <div className="w-1.5 h-4 bg-gray-400 rounded-t-sm ml-0.5"></div>
-                          <div className="w-1.5 h-6 bg-gray-400 rounded-t-sm"></div>
-                       </div>
-                       <div className="flex flex-col justify-center leading-none">
-                          <span className="text-2xl font-extrabold text-white tracking-tighter">MINAS</span>
-                          <span className="text-[10px] font-bold text-gray-400 tracking-[0.2em] uppercase pl-0.5">Contabilidade</span>
-                       </div>
+                     <img src="/logominas.png" alt="Minas Contabilidade" className="h-10 w-auto" />
                    </div>
               </div>
 

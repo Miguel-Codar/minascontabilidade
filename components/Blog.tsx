@@ -57,9 +57,9 @@ const Blog: React.FC = () => {
                         </p>
                         
                         <div className="text-right">
-                             <button className="bg-brand-red text-white text-xs font-bold py-2 px-6 rounded-full hover:bg-brand-red-dark transition-colors">
+                             <a href={`#/blog/${post.slug}`} className="inline-block bg-brand-red text-white text-xs font-bold py-2 px-6 rounded-full hover:bg-brand-red-dark transition-colors">
                                  Leia mais
-                             </button>
+                             </a>
                         </div>
                     </div>
                 </div>
