@@ -175,14 +175,14 @@ export const faqs: FAQItem[] = [
 
 export const blogPosts: BlogPost[] = [
   {
-    title: "Carnê-Leão x PJ: Qual a melhor opção para médicos?",
-    excerpt: "Entenda as diferenças tributárias entre atuar como Pessoa Física e Pessoa Jurídica e saiba como economizar até 60% em impostos.",
+    title: "Carnê-Leão x PJ em MG: Qual a melhor opção?",
+    excerpt: "Entenda as diferenças tributárias para médicos em Minas Gerais e saiba como economizar até 60% em impostos legalmente.",
     date: "15 Out 2023",
     author: "Dra. Ana Silva",
     imageUrl: "https://images.unsplash.com/photo-1576091160550-217358c7e618?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
-    slug: "carne-leao-ou-pj-para-medicos",
+    slug: "carne-leao-ou-pj-para-medicos-mg",
     content:
-      "Ao iniciar a atividade médica, surge a dúvida: atuar como Pessoa Física no Carnê-Leão ou abrir um CNPJ (PJ)? Em geral, o regime como PJ permite uma carga tributária menor quando há faturamento recorrente e despesas dedutíveis, especialmente em regimes como o Simples Nacional ou o Lucro Presumido. Já o Carnê-Leão costuma ser mais oneroso conforme a renda aumenta.\n\nComo PJ, é possível planejar a tributação, organizar pró-labore e distribuição de lucros, além de ganhar acesso a benefícios como emissão de notas fiscais e contratação de equipe. Por outro lado, atuar como PF pode ser adequado para rendimentos eventuais e valores menores, exigindo menos estrutura.\n\nA melhor escolha depende do volume de receitas, do tipo de prestação de serviços e da possibilidade de deduções. Uma análise personalizada indica o regime ideal para pagar menos impostos com segurança.",
+      "Ao iniciar a atividade médica em Minas Gerais, surge a dúvida: atuar como Pessoa Física no Carnê-Leão ou abrir um CNPJ (PJ)? Em geral, o regime como PJ permite uma carga tributária menor quando há faturamento recorrente e despesas dedutíveis, especialmente em regimes como o Simples Nacional ou o Lucro Presumido. Já o Carnê-Leão costuma ser mais oneroso conforme a renda aumenta.\n\nComo PJ, é possível planejar a tributação, organizar pró-labore e distribuição de lucros, além de ganhar acesso a benefícios como emissão de notas fiscais e contratação de equipe. Por outro lado, atuar como PF pode ser adequado para rendimentos eventuais e valores menores, exigindo menos estrutura.\n\nA melhor escolha depende do volume de receitas, do tipo de prestação de serviços e da possibilidade de deduções. Uma análise personalizada indica o regime ideal para pagar menos impostos com segurança.",
   },
   {
     title: "5 erros financeiros que médicos cometem",

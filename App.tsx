@@ -47,10 +47,10 @@ function App() {
         <>
           <Hero />
           <Segments />
+          <Blog />
           <About />
           <Stats />
           <HowItWorks />
-          <Blog />
           <ContactForm />
         </>
       )}

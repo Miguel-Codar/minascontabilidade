@@ -19,7 +19,7 @@ const Blog: React.FC = () => {
              <p className="text-gray-400 text-xs uppercase mb-6">Diretora da Fafest</p>
              <div className="max-w-2xl mx-auto">
                  <p className="text-gray-300 italic text-lg leading-relaxed">
-                    “ São muito comprometidos, esforçados, sempre tive um bom atendimento e acima de tudo são rápidos e pontuais. Super indico a empresa de contabilidade em recife para todos meus amigos. ”
+                    “ São muito comprometidos, esforçados, sempre tive um bom atendimento e acima de tudo são rápidos e pontuais. Super indico a empresa de contabilidade em Minas Gerais para todos meus amigos. ”
                  </p>
              </div>
              <div className="flex justify-center gap-2 mt-8">
